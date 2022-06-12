@@ -27,7 +27,7 @@
 # THE SOFTWARE.
 #
 
-# Convert RSA key from encrypted OpenSSH format to Putty encrypted key format.
+# Convert RSA key from encrypted OpenSSH format (in the root directory) to Putty encrypted key format.
 
 red='\e[0;31m'
 green='\e[0;32'
